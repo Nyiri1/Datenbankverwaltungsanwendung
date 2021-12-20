@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="level_0">#800000</color>
+    <color name="level_1">#990000</color>
+    <color name="level_2">#cb0101</color>
+    <color name="level_3">#ffd700</color>
+    <color name="level_4">#5ac18e</color>
+    <color name="level_5">#ffffff</color>
+    <color name="level_9">#bababa</color>
+
+    <color name="custom_1">#ff0000</color>
+    <color name="custom_2">#ff8d00</color>
+    <color name="custom_3">#ffdc07</color>
+    <color name="custom_4_old">#c1c1c1</color>
+    <color name="custom_4">#80de06</color>
+    <color name="custom_5_old">#1140ff</color>
+    <color name="custom_5_old2">#e0e0e0</color>
+    <color name="custom_5">#919191</color>
+    <color name="custom_6_old">#5275ff</color>
+    <color name="custom_6_old2">#f0f0f0</color>
+    <color name="custom_6">#797979</color>
+    <color name="custom_7_old">#859dff</color>
+    <color name="custom_7_old2">#ffffff</color>
+    <color name="custom_7">#616161</color>
+
+</resources>
