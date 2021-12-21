@@ -24,20 +24,10 @@
             android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-            <intent-filter>
-                <action
-                    android:name = "org.o7planning.sqlietereal.NotificationService" />
-                <category android:name = "android.intent.category.DEFAULT" />
-            </intent-filter>
         <service android:name=".ExampleJobService"
             android:permission="android.permission.BIND_JOB_SERVICE"/>
-            <intent-filter>
-                <action android:name="android.intent.action.BOOT_COMPLETED"/>
-                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
-            </intent-filter>
     </application>
 </manifest>
